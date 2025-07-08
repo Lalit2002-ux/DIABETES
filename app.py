@@ -62,7 +62,7 @@ def main():
 """, unsafe_allow_html=True)
 
     # Optional sidebar image
-    st.sidebar.image("L:\diabete\what-is-machine-learning.jpg", width=250)
+    st.sidebar.image("what-is-machine-learning.jpg", width=250)
     st.markdown("""
         <style>
             .stApp {
